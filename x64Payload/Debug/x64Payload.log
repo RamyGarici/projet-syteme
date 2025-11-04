@@ -1,0 +1,4 @@
+﻿     Création de la bibliothèque C:\Users\ASUS\Downloads\ProcessHider-master\ProcessHider-master\Debug\x64Payload.lib et de l'objet C:\Users\ASUS\Downloads\ProcessHider-master\ProcessHider-master\Debug\x64Payload.exp
+NtHookEngine.obj : error LNK2019: symbole externe non résolu _distorm_decode64 référencé dans la fonction "void * __cdecl CreateBridge(unsigned long,unsigned int)" (?CreateBridge@@YAPAXKI@Z)
+..\NtHookEngine\Sources\distorm_x64.lib : warning LNK4272: type d'ordinateur bibliothèque 'x64' en conflit avec le type d'ordinateur cible 'x86'
+C:\Users\ASUS\Downloads\ProcessHider-master\ProcessHider-master\Debug\x64Payload.dll : fatal error LNK1120: 1 externes non résolus

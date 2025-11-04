@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43237BF6-7361-4449-ACDE-A2A9180D0DB3}|ProcessHider\\ProcessHider.vcxproj|C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\HiderMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43237BF6-7361-4449-ACDE-A2A9180D0DB3}|ProcessHider\\ProcessHider.vcxproj|solutionrelative:ProcessHider\\HiderMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88F1D1D-92D0-4D3F-8D7F-BA6595EBD402}|x64 Launcher\\x64 Launcher.vcxproj|C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\Injector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88F1D1D-92D0-4D3F-8D7F-BA6595EBD402}|x64 Launcher\\x64 Launcher.vcxproj|solutionrelative:ProcessHider\\Injector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88F1D1D-92D0-4D3F-8D7F-BA6595EBD402}|x64 Launcher\\x64 Launcher.vcxproj|C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\Daemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D88F1D1D-92D0-4D3F-8D7F-BA6595EBD402}|x64 Launcher\\x64 Launcher.vcxproj|solutionrelative:ProcessHider\\Daemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Injector.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\Injector.cpp",
+              "RelativeDocumentMoniker": "ProcessHider\\Injector.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\Injector.cpp",
+              "RelativeToolTip": "ProcessHider\\Injector.cpp",
+              "ViewState": "AgIAAEwAAAAAAAAAAAD4v1kAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T14:08:02.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Daemon.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\Daemon.cpp",
+              "RelativeDocumentMoniker": "ProcessHider\\Daemon.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\Daemon.cpp",
+              "RelativeToolTip": "ProcessHider\\Daemon.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAD4v2QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-04T14:07:42.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HiderMain.cpp",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\HiderMain.cpp",
+              "RelativeDocumentMoniker": "ProcessHider\\HiderMain.cpp",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\ProcessHider-master\\ProcessHider-master\\ProcessHider\\HiderMain.cpp",
+              "RelativeToolTip": "ProcessHider\\HiderMain.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T13:03:07.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

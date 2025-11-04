@@ -1,0 +1,8 @@
+﻿  Daemon.cpp
+  Injector.cpp
+  Preparations.cpp
+C:\Users\ASUS\Downloads\ProcessHider-master\ProcessHider-master\ProcessHider\Preparations.cpp(94,33): warning C4018: '<=' : incompatibilité signed/unsigned
+C:\Users\ASUS\Downloads\ProcessHider-master\ProcessHider-master\ProcessHider\Preparations.cpp(100,32): warning C4018: '<=' : incompatibilité signed/unsigned
+  x64 Launcher.cpp
+  Génération de code en cours...
+  x64 Launcher.vcxproj -> C:\Users\ASUS\Downloads\ProcessHider-master\ProcessHider-master\Debug\x64 Launcher.exe
